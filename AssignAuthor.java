@@ -43,8 +43,8 @@ public class AssignAuthor implements IFunction {
 	IWorkItem 					wi;
 
 	/*
-	*	@wi.implements elibrary/EL-209 add source code to work item EL-209
-	*
+	*	@wi.implements elibrary/EL-848  add source code to work item EL-848 
+	*       http://localhost/polarion/#/project/elibrary/workitems?query=type%3Arequirement
 	*
 	*/
 	public void execute(ICallContext context, IArguments arguments) {
