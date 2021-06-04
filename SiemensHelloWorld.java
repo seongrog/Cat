@@ -20,9 +20,9 @@ public class SiemensHelloWorld {
 
     public static void main(String[] args) {
         /*
-         *  Add source code to Work Item EL-159
+         *  Add source code to Work Item EL-846
          *  Link: http://localhost/polarion/#/project/elibrary/workitems/requirement?query=NOT%20HAS_VALUE%3Aresolutio
-         *  @wi elibrary/EL-159 
+         *  @wi elibrary/EL-846 
         */
         System.out.println("Hello, Siemens World!"); // Prints "Hello, Siemens World!" to the terminal window.
     }
