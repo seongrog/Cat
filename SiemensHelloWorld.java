@@ -22,7 +22,7 @@ public class SiemensHelloWorld {
         /*
          *  Add source code to Work Item EL-847
          *  Link: http://localhost/polarion/#/project/elibrary/workitems/requirement?query=NOT%20HAS_VALUE%3Aresolutio
-         *  @wi elibrary/EL-847 
+         *  @wi elibrary/EL-848 
         */
         System.out.println("Hello, Siemens World!"); // Prints "Hello, Siemens World!" to the terminal window.
     }
