@@ -31,7 +31,7 @@ import com.polarion.alm.tracker.workflow.ICallContext;
 import com.polarion.alm.tracker.workflow.IFunction;
 import com.polarion.workflow.function.automation.functions.AssignAuthor;
 
-
+////
 /**
  * @author Stefan Schuck
  * @version ALPHA $Revision$ $Date$
